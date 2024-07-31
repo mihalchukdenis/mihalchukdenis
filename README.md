@@ -13,7 +13,16 @@ There are literally endless hours to talk about my experience, so I'll just sugg
 
 <p>You can also find me with two accepted pull requests to projects like <img src="https://github.com/user-attachments/assets/adfcc6d6-c7c6-452e-829f-ca823c3dfe82" width=25> Anoma and <img src="https://github.com/user-attachments/assets/d793c391-ff39-4ce3-ac96-2fe08b10113a" width=25> Babylon: <a href="https://github.com/anoma/namada-testnets/pull/2980">https://github.com/anoma/namada-testnets/pull/2980</a>, <a href="https://github.com/babylonchain/networks/pull/357">https://github.com/babylonchain/networks/pull/357</a></p>
 
+## Guides:
+Yes, yes, don't be surprised, I also sometimes write guides on the projects I like the most. If you have used my guide and want to give your fitback, then write to me in discord or tweet me, I'll be glad to chat with you!
+
+<ul>
+  <li></li>
+</ul>
+
+
 ## Links:
+If you've become interested in what I do, you can go to all of my social media accounts and gather more information about me!
 
 <ul>
   <li><p><img src="https://github.com/user-attachments/assets/03c9616c-ae8f-4d67-ad1c-04eb487709ec" width=25> - <a href="https://x.com/Podge548">Twitter</a></p></li>
