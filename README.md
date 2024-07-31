@@ -17,8 +17,10 @@ There are literally endless hours to talk about my experience, so I'll just sugg
 Yes, yes, don't be surprised, I also sometimes write guides on the projects I like the most. If you have used my guide and want to give your fitback, then write to me in discord or tweet me, I'll be glad to chat with you!
 
 <ul>
-  <li></li>
+  <li><p><img src="https://github.com/user-attachments/assets/99cddf19-11cd-4c57-a872-ecb87c20c623" width=25><a href="https://github.com/mihalchukdenis/da_retriever_0g_guide">da_retriever_0g_guide</a></p></li>
 </ul>
+
+
 
 
 ## Links:
