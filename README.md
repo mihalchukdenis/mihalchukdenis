@@ -19,6 +19,8 @@ Yes, yes, don't be surprised, I also sometimes write guides on the projects I li
 <ul>
   <li><p><img src="https://github.com/user-attachments/assets/99cddf19-11cd-4c57-a872-ecb87c20c623" width=25> - <a href="https://github.com/mihalchukdenis/da_retriever_0g_guide">da_retriever_0g_guide</a></p></li>
   <li><p><img src="https://github.com/user-attachments/assets/99cddf19-11cd-4c57-a872-ecb87c20c623" width=25> - <a href="https://github.com/mihalchukdenis/da_client_og_guide">da_client_og_guide</a></p></li>
+  <li><p><img src="https://github.com/user-attachments/assets/99cddf19-11cd-4c57-a872-ecb87c20c623" width=25> - <a href="https://github.com/mihalchukdenis/storage_kv_0g_guide">storage_kv_0g_guide
+</a></p></li>
 </ul>
 
 
