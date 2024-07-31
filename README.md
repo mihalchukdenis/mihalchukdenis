@@ -21,10 +21,9 @@ Yes, yes, don't be surprised, I also sometimes write guides on the projects I li
   <li><p><img src="https://github.com/user-attachments/assets/99cddf19-11cd-4c57-a872-ecb87c20c623" width=25> - <a href="https://github.com/mihalchukdenis/da_client_og_guide">da_client_og_guide</a></p></li>
   <li><p><img src="https://github.com/user-attachments/assets/99cddf19-11cd-4c57-a872-ecb87c20c623" width=25> - <a href="https://github.com/mihalchukdenis/storage_kv_0g_guide">storage_kv_0g_guide
 </a></p></li>
+  <li><p><img src="https://github.com/user-attachments/assets/c6c37602-c8ca-4e74-8a9b-735dff31e7d3" width=25> - <a href="https://github.com/mihalchukdenis/Warden-How-to-install-node">Warden-How-to-install-node
+</a></p></li>
 </ul>
-
-
-
 
 ## Links:
 If you've become interested in what I do, you can go to all of my social media accounts and gather more information about me!
