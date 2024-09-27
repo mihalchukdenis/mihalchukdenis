@@ -11,13 +11,13 @@ There are literally endless hours to talk about my experience, so I'll just sugg
 
 | Project | Node |
 | --- | --- |
+| <img src="https://github.com/user-attachments/assets/adfcc6d6-c7c6-452e-829f-ca823c3dfe82" width=25>  | https://github.com/anoma/namada-testnets/pull/2980  |
+| <img src="https://github.com/user-attachments/assets/d793c391-ff39-4ce3-ac96-2fe08b10113a" width=25> | https://github.com/babylonchain/networks/pull/357  |
 | <img src="https://github.com/user-attachments/assets/7794ad10-48e1-4bfd-95b0-48cf686e9018" width=25> | airvaloper1l5ndhr7w8uuldfxyahnht2mwk2acjwmx00lyfu |
 | <img src="https://github.com/user-attachments/assets/14a0df3c-647b-43c7-8b12-69ef3dd3c093" width=25> | evmosvaloper144p4mlj9ju8rencusw2835cjmu9yf2v86mc6h8 |
 | <img src="https://github.com/user-attachments/assets/d75ce257-3db3-4d1b-84be-430edcb16dbb" width=25>  |  artvaloper14ezfjx24tcu8hffkcvdkdk7gz2d5ltwmjhtvvn |
 | <img src="https://github.com/user-attachments/assets/238aee8f-f056-4c71-bf54-94bcb24aad59" width=25>  | wardenvaloper1d58nx5lgxv90q20c5fwsjhe2shtxlwcmc86a08  |
 | <img src="https://github.com/user-attachments/assets/7863a9a3-0246-4cf4-8629-1201480a2310" width=25>  | seivaloper1zx84r5vgz8wzrqm85hsygectyfs996qerc5j5s  |
-| <img src="https://github.com/user-attachments/assets/adfcc6d6-c7c6-452e-829f-ca823c3dfe82" width=25>  | https://github.com/anoma/namada-testnets/pull/2980  |
-|  <img src="https://github.com/user-attachments/assets/d793c391-ff39-4ce3-ac96-2fe08b10113a" width=25> | https://github.com/babylonchain/networks/pull/357  |
 | <img src="https://github.com/user-attachments/assets/405ace38-5d1a-4c93-ba8a-665b8a5ce63a" width=25> | sedavaloper1t2n46y3ypq2zs9p457jdvj4v2azpmx35zcl9hr |
 
 ---
