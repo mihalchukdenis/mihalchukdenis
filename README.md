@@ -28,12 +28,16 @@ Yes, yes, don't be surprised, I also sometimes write guides on the projects I li
 
 | Project | Guide |
 | --- | --- |
+| <img src="https://img.cryptorank.io/coins/babylon1701677979121.png" width=25> | [Babylon](https://github.com/mihalchukdenis/babylonchain_guide/tree/main) |
+| <img src="https://storage.coinboom.net/images/e78f34d5-a5a1-49c0-91cd-0c794d5c0353.webp" width=25> | [EigenLayer](https://medium.com/@Silver.Surfer/eigenlayer-node-installation-guide-27c64d6f33af) |
+| <img src="https://img.cryptorank.io/coins/burnt_xion1706292182585.png" width=25> | [Xion](https://medium.com/@Silver.Surfer/xion-node-installation-guide-64ba7b3cf9cd) |
 | <img src="https://github.com/user-attachments/assets/99cddf19-11cd-4c57-a872-ecb87c20c623" width=25> | <a href="https://github.com/mihalchukdenis/da_retriever_0g_guide">da_retriever_0g_guide</a>, <a href="https://github.com/mihalchukdenis/da_client_og_guide">da_client_og_guide</a>, <a href="https://github.com/mihalchukdenis/storage_kv_0g_guide">storage_kv_0g_guide
 </a> |
 | <img src="https://github.com/user-attachments/assets/c6c37602-c8ca-4e74-8a9b-735dff31e7d3" width=25> | <a href="https://github.com/mihalchukdenis/Warden-How-to-install-node">Warden-How-to-install-node
 </a> |
 | <img src="https://github.com/user-attachments/assets/7794ad10-48e1-4bfd-95b0-48cf686e9018" width=25> | [Airchains Full Node](https://medium.com/@Silver.Surfer/my-nodes-620018ebedd9) |
 | <img src="https://github.com/user-attachments/assets/405ace38-5d1a-4c93-ba8a-665b8a5ce63a" width=25> | [Seda Testnet Node](https://github.com/mihalchukdenis/seda-test-node) |
+
 
 ---
 
