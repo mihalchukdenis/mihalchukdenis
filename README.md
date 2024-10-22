@@ -47,7 +47,6 @@ If you've become interested in what I do, you can go to all of my social media a
 
 <ul>
 <p><img src="https://github.com/user-attachments/assets/03c9616c-ae8f-4d67-ad1c-04eb487709ec" width=25> - <a href="https://x.com/Podge548">Twitter</a></p></li>
-<p><img src="https://github.com/user-attachments/assets/004bb63a-c53e-4cfb-8894-b02417a070c6" width=25> - <a href="https://discord.com/users/959406517117915149">Discord</a></p></li>
 <p><img src="https://github.com/user-attachments/assets/fbfda665-0a9d-4753-95bf-e2cce186d713" width=25> - <a href="https://medium.com/@Silver.Surfer">Medium</a></p></li>
 </ul>
 
